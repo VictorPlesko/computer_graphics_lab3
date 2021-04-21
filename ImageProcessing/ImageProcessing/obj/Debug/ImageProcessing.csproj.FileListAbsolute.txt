@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\User\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\BSUComputerGraphicsLabs-3ec9b5e3cd67636feb8ffe627a18e811345cd145\Lab3\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
